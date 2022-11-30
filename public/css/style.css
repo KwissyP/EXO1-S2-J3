@@ -1,4 +1,62 @@
 section {
     width: 100%;
+    display: flex;
+    color: white;
+    font-size: 40px;
 }
 
+#col1 {
+    width: 50%;
+    display: block;
+}
+
+.white {
+    background-color: white;
+}
+
+.red {
+    background-color: #FF0000;
+    margin: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#col2 {
+    width: 50%;
+}
+
+.div1 {
+    height: 75px;
+}
+
+.div2 {
+    height: 50px;
+}
+
+.div3{
+    display: flex;
+}
+
+.div33 {
+    width: 20%;
+    height: 160px;
+}
+
+.div4 {
+    height: 158px;
+    margin-bottom: 0;
+}
+
+.div5 {
+    display: flex;
+}
+
+.div55 {
+    height: 165px;
+    width: 50%;
+}
+
+.div6 {
+    height: 76px;
+}
